@@ -4,7 +4,9 @@
 /.gitignore     export-ignore
 /.*.yml         export-ignore
 /README.md      export-ignore
-/renovate.json  export-ignore
 /*.dist         export-ignore
 /composer.lock  export-ignore
 /Makefile       export-ignore
+infection.json.dist export-ignore
+phpcs.xml.dist export-ignore
+phpstan.neon.dist export-ignore
